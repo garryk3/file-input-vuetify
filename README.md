@@ -8,10 +8,16 @@ _import inputFile form 'file-input-vuetify'_
 
 props:
 small, medium, large (boolean) - size images preview
+
 imgHeight (number) - height images
+
 multipleFiles (boolean) - multiple attr
+
 title (String)
+
 required (boolean)
+
 name (string)
+
 fileUpload (string) event title
 
