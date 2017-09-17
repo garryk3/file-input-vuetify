@@ -2,7 +2,7 @@
 component input(type="file) for vuetify
 
 usage:
-_import fileInput form 'file-input-vuetify'_
+_import inputFile form 'file-input-vuetify'_
 
 **input-file(show-images, multiple-file, title="Галерея", small, fileUpload="input1", @input1="saveInput1")**
 
